@@ -1,5 +1,5 @@
 {
-  "name": "lv2-web",
+  "name": "LV2-WEB",
   "version": "1.0.0",
   "main": "server.js",
   "scripts": {
@@ -8,4 +8,4 @@
   "dependencies": {
   "express": "^4.18.2"
   }
-  }
+}
